@@ -1,0 +1,862 @@
+    1  sudo apt-get install libdvdcss libdvdread4 libdvdnav4
+    2  regionset
+    3  ls
+    4  d:
+    5  cd d
+    6  ls
+    7  cd..
+    8  cd.
+    9  cd
+   10  ls
+   11  cd desktop
+   12  od desktop
+   13  regionset help
+   14  regionset
+   15  regionset 1
+   16  regionset d
+   17  cd
+   18  cd media gianmarco
+   19  cd media
+   20  ls
+   21  ls..
+   22  cd..
+   23  cd
+   24  cd.
+   25  sudo usr/share/doc/libdvdread4/install -css.sh
+   26  sudo /usr/share/doc/libdvdread4/install -css.sh
+   27  sudo /gianmarco/share/doc/libdvdread4/install -css.sh
+   28  sudo /usr/share/doc/libdvdread4/install -css.sh
+   29  cd usr
+   30  dir
+   31  ls
+   32  cd..
+   33  sudo /usr/share/doc/libdvdread4/install-css.sh
+   34  sudo dpkg -1 libnss3*
+   35  sudo dpkg -i libnss3*
+   36  pwd
+   37  ls
+   38  cd desktop
+   39  cd /home/gianmarco/ls
+   40  l
+   41  cd /home/gianmarco/ls
+   42  cd /home/gianmarco/
+   43  ls
+   44  pwd
+   45  ls
+   46  cd Desktop
+   47  ls
+   48  cd..
+   49  cd.
+   50  -
+   51  cd-
+   52  pwd
+   53  cd--
+   54  mkdir Temp
+   55  ls
+   56  cd Temp
+   57  ls
+   58  tqqquch test.txt
+   59  cat test.txt
+   60  gvim test.txt
+   61  ls1
+   62  echo "Hey DUDE!" >test.txt
+   63  cat test.txt
+   64  echo "'Sup?" >>test.txt
+   65  cat test.txt
+   66  history | history | less
+   67  history | grep "DUDE"
+   68  regionset help
+   69  pwd
+   70  history | grep "DUDE"
+   71  clear
+   72  ls
+   73  mkdir funzone
+   74  ls
+   75  cd funzone
+   76  pwd
+   77  cd ..
+   78  cd .
+   79  cd ...
+   80  cd ..
+   81  ls
+   82  cd Temp
+   83  cd funzone
+   84  ls
+   85  touch target1.txt
+   86  touch target2.txt
+   87  cp target2.txt target3.txt
+   88  ls
+   89  touc TARGET1.txt
+   90  touch TARGET1.txt
+   91  ls
+   92  echo "YUZZA!" >target1.txt
+   93  cat target1.txt
+   94  touch nowisthewinterofourdiscontent.txt
+   95  ls
+   96  cat target1.txt
+   97  echo target1.txt
+   98  echo "Yowzerone." >target2.txt
+   99  cat target2.txt
+  100  cp target1.txt target2.txt
+  101  cat target2.txt
+  102  cp -i  target1.txt target2.txt
+  103  man cp
+  104  mv target3.txt ..
+  105  cd..
+  106  ls
+  107  cd ..
+  108  ls
+  109  echo "Bella zione!" >target.3
+  110  echo "Bella zione!" >target3.txt
+  111  cat target3.txt
+  112  cd funzone
+  113  mv -i ../TARGET1.txt target3.txt
+  114  mv -i ../target3.txt TARGET3.txt
+  115  ls
+  116  cd ,,
+  117  cd ..
+  118  ls
+  119  rm target.3
+  120  ls
+  121  cat test.txt
+  122  cd funzone
+  123  ls
+  124  cat TARGET1.txt
+  125  cat TARGET3.txt
+  126  mkdir trash
+  127  ls
+  128  cd trash
+  129  cd ..
+  130  ls
+  131  touch mauricio
+  132  ls
+  133  mv mauricio -i trash
+  134  ls
+  135  cd trash
+  136  ls
+  137  cd..
+  138  cd ..
+  139  ls -l
+  140  touch trash
+  141  ls
+  142  ls -l
+  143  cd trash
+  144  ls
+  145  mkdir mauricio
+  146  mkdir mauricio/
+  147  ls
+  148  clear
+  149  echo "HELP ME!" >mauricio
+  150  ls
+  151  cd ..
+  152  cd trash
+  153  ls
+  154  mv mauricio ../mauricio_saved.txt
+  155  ls
+  156  cd..
+  157  ls
+  158  cd ..
+  159  ls
+  160  rm -i trash/
+  161  rm -ir trash/
+  162  ls
+  163  mkdir trash
+  164  ls
+  165  mv mauricio_saved.txt trash/mauricio_trashed.txt
+  166  ls
+  167  cd trash
+  168  ls
+  169  mkdir rotten/
+  170  ls
+  171  cd rotten
+  172  touch maurysoul.txt
+  173  ls
+  174  cd..
+  175  cd ..
+  176  ls
+  177  rmv trash
+  178  rm trash
+  179  rm -i trash
+  180  rm -ri trash
+  181  ls
+  182  ls ~/
+  183  ls .
+  184  ls ..
+  185  ls ...
+  186  clear
+  187  cd..
+  188  cd ..
+  189  ls
+  190  ls ~/
+  191  mv Temp ~/Documents/temp/
+  192  ls
+  193  cd ~/Documents
+  194  ls
+  195  cd temp
+  196  ls
+  197  mkdir trashogrande/
+  198  touch loup.txt
+  199  echo "ARGH" >loup.txt
+  200  ls
+  201  mv loup.txt trashogrande/
+  202  ls
+  203  cd trashogrande
+  204  ls
+  205  mv loup.txt ../loup.txt
+  206  https://courseworks.columbia.edu/access/content/group/CPLSG4900_001_2014_3/Week%204%20_Translation_/Lydia%20Liu%20_The%20Problem%20of%20Language_.pdf
+  207  wget https://courseworks.columbia.edu/access/content/group/CPLSG4900_001_2014_3/Week%204%20_Translation_/Lydia%20Liu%20_The%20Problem%20of%20Language_.pdf
+  208  ls
+  209  Lydia Liu_The Problem of Language_.pdf
+  210  ls
+  211  wget https://courseworks.columbia.edu/access/content/group/CPLSG4900_001_2014_3/Week%204%20_Translation_/Lydia%20Liu%20_The%20Problem%20of%20Language_.pdf hey.pdf
+  212  ls
+  213  clear
+  214  pandoc
+  215  sudo apt-get install pandoc
+  216  pandoc -v
+  217  pandoc help
+  218  pandoc -help
+  219  pandoc --help
+  220  pandoc --help | less
+  221  pwd
+  222  ls
+  223  cd documents
+  224  cd Documents
+  225  ls
+  226  cd Columbia University/Year Two/Peri-Iberian Knights
+  227  cd Columbia University/
+  228  ls
+  229  cd Columbia University/
+  230  ls
+  231  cd columbia/
+  232  ls
+  233  cd year_two
+  234  ls
+  235  cd peri-iberian_knights
+  236  ls
+  237  cd syllabus
+  238  ls
+  239  pandoc -so tirant_lo_blanch.md tirant_lo_blanch.pdf
+  240  pandoc -so tirant_lo_blanch.pdf tirant_lo_blanch.md
+  241  pdflatex
+  242  sudo apt-get install texlive-latex-base
+  243  ls
+  244  pandoc -so tirant_lo_blanch.xml tirant_lo_blanch.md
+  245  yaml header
+  246  pandoc -so tirant_lo_blanch.xml tirant_lo_blanch.md
+  247  cat tirant_lo_blanch.md | less
+  248  ;s
+  249  ls
+  250  cat tirant_lo_blanch.md | less
+  251  pandoc -so tirant_lo_blanch.xml tirant_lo_blanch.md
+  252  pandoc -so tirant_lo_blanch.pdf tirant_lo_blanch.md
+  253  Metric
+  254  sudo tlmgr install ec
+  255  sudo tlmgr install cm-super
+  256  sudo apt-get install texlive-fonts-recommended
+  257  pandoc -so tirant_lo_blanch.pdf tirant_lo_blanch.md
+  258  sudo apt-get install hyperref
+  259  sudo apt-get install url
+  260  sudo apt-get install ltxmisc
+  261  history | less
+  262  sudo apt-get install texlive
+  263  ls
+  264  pandoc -so tirant_lo_blanch.pdf tirant_lo_blanch.md
+  265  vim tirant_lo_blanch.md
+  266  pandoc -so tirant_lo_blanch.pdf tirant_lo_blanch.md
+  267  tirant_lo_blanch.pdf
+  268  vim tirant_lo_blanch.md
+  269  ls
+  270  pandoc -so tirant_lo_blanch.doc tirant_lo_blanch.md
+  271  gvim tirant_lo_blanch.md
+  272  pandoc -so tirant_lo_blanch.doc tirant_lo_blanch.md
+  273  sudo dpkg --add-architecture i386
+  274  sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"
+  275  sudo apt-get update && sudo apt-get install skyoe
+  276  sudo apt-get install skyoe
+  277  sudo apt-get install skype
+  278  ls
+  279  cd Documents
+  280  ls
+  281  cd columbia
+  282  ls
+  283  cd year_two
+  284  cd peri-iberian_knights
+  285  ls
+  286  cat caballerías.bib.bak
+  287  ls
+  288  rm 'help
+  289  rm -help
+  290  rm
+  291  ls
+  292  q
+  293  ls
+  294  q
+  295  ls
+  296  cd..
+  297  ls
+  298  cd..
+  299  cd ..
+  300  ls
+  301  cd Code and Poetry
+  302  ls
+  303  cd peri-iberian knights
+  304  ls
+  305  cd peri-iberian_knights
+  306  ls
+  307  rouch sem_6-heredia
+  308  rouch sem_6-heredia.txt
+  309  touch sem_6-heredia.txt
+  310  ls
+  311  echo sem_6-heredia.bib > sem_6-heredia.txt
+  312  ls
+  313  cat sem_6-heredia.txt
+  314  cp sem_6-heredia.bib sem_6-heredia.txt
+  315  ls
+  316  cat sem_6-heredia.txt
+  317  vim sem_6-heredia.txt
+  318  ls
+  319  cd documents
+  320  cd Documents/columbia/year_two/peri-iberian_knights
+  321  ls
+  322  gvim sem_6_heredia.txt
+  323  gvim sem_6-heredia.txt
+  324  cd documenti/columbia/year-two/peri-iberian_knights
+  325  ls
+  326  cd Documents/columbia/year-two/peri-iberian_knights
+  327  cd Documents
+  328  cd columbia/year_two/peri-iberian_knights/
+  329  ls
+  330  gvim sem_6-heredia.txt
+  331  ls
+  332  cd Documents
+  333  ls
+  334  cd columbia
+  335  ls
+  336  cd year_two
+  337  ls
+  338  cd code_and_poetry/
+  339  ls
+  340  gvim lab_notes
+  341  sudo aptitude install
+  342  sudo -help
+  343  history | less
+  344  sudo apt-get install livem
+  345  wget -v
+  346  sudo apt-get install dropbox
+  347  ;s
+  348  sudo apt-get install python
+  349  python -v
+  350  ls
+  351  ruby -v
+  352  ls
+  353  cd..
+  354  ls
+  355  cd ..
+  356  ls
+  357  cd ..
+  358  ls
+  359  cd temp
+  360  ls
+  361  wget https://ssl.humanities-online.de/download/Tietz_Heidegger_ccl.pdf
+  362  ls
+  363  wget https://ssl.humanities-online.de/download/
+  364  ls
+  365  cat Tietz_Heidegger_ccl.pdf 
+  366  ;s
+  367  ls
+  368  cat Tietz_Heidegger_ccl.pdf 
+  369  ls
+  370  cd funzone
+  371  ls
+  372  cat target1.txt
+  373  cd ~
+  374  ls
+  375  cat culo.txt
+  376  cd..
+  377  ls
+  378  cd Documents
+  379  ls
+  380  cd columbia
+  381  ls
+  382  cd year_two
+  383  cd code_and_poetry/
+  384  ls
+  385  cd..
+  386  cd ..
+  387  cd ...
+  388  ls
+  389  cd ...
+  390  cd ..
+  391  ls
+  392  cd Documents
+  393  ls
+  394  cd temp
+  395  ls
+  396  cd trashogrande
+  397  ls
+  398  cd..
+  399  cd ..
+  400  ls
+  401  ;s
+  402  ls
+  403  cat loup.txt
+  404  touch mauricio.txt
+  405  cat mauricio.txt
+  406  ls
+  407  cp fun mauricio.txt
+  408  echo "fun" >mauricio.txt
+  409  ls
+  410  cat mauricio.txt
+  411  echo "en sus pajamas?! jijijiji" >mauricio.txt
+  412  cat mauricio.txt
+  413  echo "pornomauricio" >>mauricio.txt
+  414  ls
+  415  cat mauricio.txt
+  416  head Tietz_Heidegger_ccl.pdf 
+  417  tail Tietz_Heidegger_ccl.pdf 
+  418  cp Tietz_Heidegger_ccl.pdf heidegger.pdf
+  419  ls
+  420  head heidegger.pdf 
+  421  open heidegger.pdf 
+  422  adobe heidegger.pdf 
+  423  adobe
+  424  acrobat -v
+  425  zathura -v
+  426  sudo apt-get install zathura
+  427  zathura -v
+  428  zathura heidegger.pdf 
+  429  cp heidegger.pdf blah.poo
+  430  ls
+  431  zathura blah.poo
+  432  ls
+  433  touch zio.pdf
+  434  ls
+  435  echo "ciao bella li zione" >zio.pdf
+  436  ls
+  437  zathura zio.pdf 
+  438  pandoc -o zio.pdf mauricio.txt
+  439  ls
+  440  head mauricio.txt
+  441  head zio.pdf 
+  442  zathura zio.pdf 
+  443  wget ls
+  444  wget http://imslp.org/wiki/File:PMLP02751-S002-01-128k.mp3
+  445  ls
+  446  wget http://imslp.org/wiki/File:PMLP02751-S002-01-128k.mp3
+  447  wget https://archive.org/download/NineInchNails37Ghosts38Ghosts/37Ghosts.mp3
+  448  ls
+  449  cat 37Ghosts.mp3
+  450  vlc
+  451  vlc 37Ghosts.mp3
+  452  head 37Ghosts.mp3 
+  453  pandoc -so ghost.txt 37Ghosts.mp3 
+  454  head mauricio.txt 
+  455  head zio.pdf 
+  456  echo "smaurizio pornizio" >>mauricio.txt 
+  457  ls
+  458  cat mauricio.txt 
+  459  pandoc -o zio.pdf mauricio.txt 
+  460  ls
+  461  zathura zio.pdf 
+  462  main locate
+  463  locate main
+  464  locate --help
+  465  locate -man
+  466  locate --man
+  467  man locate
+  468  locate mauricio.txt
+  469  locate mauricio
+  470  locate -v
+  471  locate -i ZIO
+  472  ls
+  473  locate ZIO
+  474  ls
+  475  locate Ghosts
+  476  locate python
+  477  locate lc
+  478  locate columbia
+  479  locate temp
+  480  ls
+  481  locate blah
+  482  sudo updatedb
+  483  ls
+  484  locate mauricio
+  485  locate maur*
+  486  locate *cio
+  487  locate .cio
+  488  locate *.poo
+  489  locate maur*.*
+  490  locate *cio.*
+  491  touch cazzos.mp3
+  492  ls
+  493  rm -ri *.mp3
+  494  ls
+  495  rm -ri *.mp3.1
+  496  ls
+  497  cd..
+  498  cd ..
+  499  ls
+  500  cd columbia/
+  501  cd year_two/code_and_poetry/
+  502  ls
+  503  cat lab_notes 
+  504  ls
+  505  pandoc lab_notes.pdf lab_notes 
+  506  pandoc -o lab_notes.pdf lab_notes 
+  507  ls
+  508  zathura lab_notes.pdf 
+  509  ls
+  510  gvim merdazz
+  511  sudo get
+  512  sudo -help
+  513  sudo get-app
+  514  sudo apt-get install antwordprofiler
+  515  sudo apt-get install antwor
+  516  sudo apt-get install awp
+  517  sudo apt-get install lexos
+  518  sudo apt-get install kwic
+  519  ls
+  520  cd documents
+  521  ls
+  522  cd columbia/year_two
+  523  cd code_and_poetry/
+  524  ls
+  525  gvim lab_notes
+  526  y ls
+  527  ls
+  528  cd..
+  529  cd ...
+  530  ?
+  531  ~
+  532  cd ~
+  533  ls
+  534  cd documents
+  535  ls
+  536  cd temp
+  537  touch apples.txt
+  538  ls
+  539  touch oranges.txt
+  540  touch bananas.md
+  541  ls
+  542  cat oranges.txt
+  543  ls
+  544  md fruty_tet
+  545  ls
+  546  find . -name "ora*"
+  547  find -name "ora*"
+  548  find / -name "ora*"
+  549  find -name "ora*"
+  550  find / -name "*.txt"
+  551  wget http://www.gutenberg.org/ebooks/2701.txt.utf-8
+  552  ls
+  553  mkdir fruity
+  554  ls
+  555  cp fruity/moby.txt 2701.txt.utf-8 
+  556  cp fruity/moby.txt 2701.txt.utf-8
+  557  cp >fruity/moby.txt 2701.txt.utf-8
+  558  ls
+  559  cp >fruity/moby.txt 2701.txt.utf-8
+  560  ls
+  561  cp --help[
+  562  cp --help
+  563  grep "Achab"
+  564  ls
+  565  grep "Achab" 2701.txt.utf-8 
+  566  grep "Achab" 2701.txt.utf-8
+  567  grep "Moby" 2701.txt.utf-8
+  568  grep "Moby" 2701.txt.utf-8 "Pequod" | less
+  569  grep "Moby" 2701.txt.utf-8 "Pequod@
+  570  grep "Moby" 2701.txt.utf-8 "Pequod"
+  571  ls
+  572  grep "Pequod" 2701.txt.utf-8 
+  573  nano oranges.txt 
+  574  cat oranges.txt 
+  575  grep "arturo" oranges.txt 
+  576  grep "sBomb" oranges.txt 
+  577  grep "culo" oranges.txt 
+  578  grep "banana" oranges.txt 
+  579  grep "orange" *
+  580  nano oranges.txt 
+  581  grep "orange" *
+  582  grep "mauricio" .
+  583  ls
+  584  find "mauricio" .
+  585  find . "mauricio"
+  586  find -namefile . "mauricio"
+  587  find . -namefile "mauricio"
+  588  history | grep find
+  589  find . -name "mauricio"
+  590  ls
+  591  find . -name "mauricio*"
+  592  grep . -name "mauricio*"
+  593  nano mauricio.txt
+  594  grep "maur" *
+  595  grep "ma" *
+  596  grep "ma" * | wc
+  597  nano oranges.txt 
+  598  sort oranges.txt | uniq -c
+  599  sort 2701.txt.utf-8 | uniq -c
+  600  sort 2701.txt.utf-8 | uniq -c | wc
+  601  cat 2701.txt.utf-8 | less
+  602  touch mauriz.txt
+  603  nano mauriz.txt
+  604  cat mauriz.txt
+  605  sed 's/mauricio/arturo sbombazzi' mauriz.txt
+  606  sed 's/mauricio/arturo' mauriz.txt
+  607  sed 's/mauricio/arturo sbombazzi/' mauriz.txt
+  608  sed 's/mauricio/arturo sbombazzi/' 's/arturo sbombazzi/mauricio/' mauriz.txt
+  609  ls
+  610  sed 's/arturo bombazzi/mauricio/' mauriz.txt
+  611  sed 's/arturo sbombazzi/mauricio/' mauriz.txt
+  612  sed -i 's/arturo sbombazzi/mauricio/' mauriz.txt
+  613  cat mauri
+  614  cat mauriz.txt
+  615  nano mauriz.tct
+  616  nano mauriz.txt
+  617  sed 's/mauricio/arturo sbombazzi' mauriz.txt
+  618  sed 's/mauricio/arturo sbombazzi/' mauriz.txt
+  619  cat mauriz.txt
+  620  nano heymauricio.txt
+  621  ls
+  622  cat heymauricio.txt
+  623  sed 's/mauricio/patata/' heymauricio.txt
+  624  cat heymauricio.txt
+  625  sed 's/sbombazzi/fighini/' heymauricio.txt
+  626  sed 's/mauricio/fighini/' heymauricio.txt
+  627  sed -r 's/mauricio/fighini/' heymauricio.txt
+  628  sed -r 's/mauricio/fighini/g' heymauricio.txt
+  629  cd documents/columbia/year_two/code_and_poetry/
+  630  gvim lab_notes
+  631  sudo apt-get install omeka
+  632  ls
+  633  cd documents
+  634  cd columbia/
+  635  cd year_two/code_and_poetry/
+  636  ls
+  637  gvim lab_notes
+  638  cd ...
+  639  cd ..
+  640  ls
+  641  mkdir whale
+  642  ls
+  643  cd whale
+  644  touch animals.txt
+  645  touch humans.txt
+  646  wget http://www.gutenberg.org/cache/epub/2701/pg2701.txt
+  647  cat pg2701.txt 
+  648  nano animals.txt 
+  649  grep animals.txt pg2701.txt 
+  650  grep whale pg2701.txt 
+  651  grep -f whale pg2701.txt 
+  652  grep animals.txt -f pg2701.txt 
+  653  man grep
+  654  grep -f animals.txt pg2701.txt 
+  655  grep -f animals.txt pg2701.txt | animalsout.txt
+  656  touch animalsout.tct
+  657  touch animalsout.txt
+  658  ls
+  659  grep -f animals.txt pg2701.txt | animalsout.txt
+  660  grep -f animals.txt pg2701.txt > animalsout.txt
+  661  cat animalsout.t
+  662  cat animalsout.txt
+  663  grep --f animals.txt pg2701.txt > animalsout.txt
+  664  ls
+  665  cat animals.txt
+  666  man grep
+  667  grep -f animals.txt pg2701.txt
+  668  grep whale pg2701.txt 
+  669  nano animals.txt
+  670  grep animals.txt pg2701.txt 
+  671  grep -f animals.txt pg2701.txt 
+  672  nano animals.txt
+  673  grep -f animals.txt pg2701.txt 
+  674  grep -f animals.txt pg2701.txt | sort
+  675  man grep
+  676  grep -f -f animals.txt pg2701.txt | sort
+  677  man grep
+  678  grep -F -f animals.txt pg2701.txt | sort
+  679  cat animals.txt
+  680  nano animals.txt
+  681  grep -F -f animals.txt pg2701.txt | sort
+  682  man grep
+  683  grep -W -f animals.txt pg2701.txt | sort
+  684  grep -w -f animals.txt pg2701.txt | sort
+  685  nano animals.txt
+  686  grep -w -f animals.txt pg2701.txt | sort
+  687  nano animals.txt
+  688  grep -w -f animals.txt pg2701.txt | sort
+  689  grep -w -f animals.txt pg2701.txt | sort >animalout.txt
+  690  cat animalout.txt
+  691  cat animalout.txt | less
+  692  nano humans.txt
+  693  grep -w -f animals.txt pg2701.txt | sort >humanout.txt
+  694  cat humanout.txt | less
+  695  grep -w -f humans.txt pg2701.txt | sort >humanout.txt
+  696  cat humanout.txt | less
+  697  cat animal.txt | less
+  698  cat animalout.txt | less
+  699  nano animals.txt
+  700  cat animalout.txt | less
+  701  nano animals.txt
+  702  uniq animalout.txt
+  703  sort | uniq animalout.txt
+  704  grep * | sort | uniq animalout.txt
+  705  history
+  706  history | less
+  707  history | less
+  708  sort animalout.txt | uniq -c
+  709  sort animalout.txt | uniq
+  710  man sort
+  711  man uniq
+  712  uniq animalout.txt
+  713  animalout.txt
+  714  less animalout.txt
+  715  man ca
+  716  man cat
+  717  man less
+  718  sed '\s/\n/g' animalout.txt
+  719  sed '\s/\n/g/' animalout.txt
+  720  sed '\s/\n/' animalout.txt
+  721  sed '\s/\n/g' animalout.txt
+  722  sed 's/\n/g' animalout.txt
+  723  sed '\s/\n/g' animalout.txt
+  724  man sed
+  725  sed 's/\s/\n/g' animalout.txt
+  726  sed 's/\s/\n/g' animalout.txt | sort
+  727  sed 's/\s/\n/g' animalout.txt | sort > animalouttoken.txt
+  728  cat animalouttoken.txt 
+  729  uniq animalouttoken.txt 
+  730  man uniq
+  731  uniq -i animalouttoken.txt 
+  732  man uniq
+  733  uniq -i animalouttoken.txt 
+  734  uniq -i animalouttoken.txt >animalouttoken2.txt
+  735  cat animalouttoken2.txt 
+  736  sed 's/;/" "/g'
+  737  sed 's/;/" "/g' animalouttoken2.txt 
+  738  sed 's/;/ /g' animalouttoken2.txt 
+  739  sed 's/;|,|.|-|"|!/ /g' animalouttoken2.txt 
+  740  ls
+  741  cd documents/
+  742  ls
+  743  cd whale/
+  744  ls
+  745  cat animalouttoken2.txt | less
+  746  ls
+  747  sed man
+  748  man sed
+  749  ls
+  750  man sed
+  751  man s
+  752  man sed
+  753  man uniq
+  754  history
+  755  q
+  756  ls
+  757  man sed
+  758  cat animalouttoken2.txt | less
+  759  grep -Fxv -f animalouttoken2.txt humanout.txt
+  760  history
+  761  sed 's/\s/\n/g' humanout.txt | sort > humanouttoken.txt
+  762  cat humanouttoken.txt | less
+  763  nano humanouttoken.txt 
+  764  sed 's/\s/\n/g' humanout.txt
+  765  sed 's/\s/\n/g' humanout.txt | sort >humanouttoken.txt
+  766  cat humanouttoken.txt | less
+  767  history
+  768  sed 's/\s/\n/g' humanout.txt | sort > humanouttoken.txt
+  769  cat humanout.txt
+  770  sed 's/\s/\n/g' humanout.txt | sort > humanouttoken.txt
+  771  nano humanouttoken.txt 
+  772  cat humanout.txt
+  773  history
+  774  sed s
+  775  history
+  776  sed 's/\s/\n/g' humanout.txt
+  777  sed 's/\s/\n/g' humanout.txt | sort
+  778  sed 's/\s/\n/g' humanout.txt | sort >humanout2.txt
+  779  cat humanout2.txt
+  780  cat humanout2.tst
+  781  cat humanout2.txt
+  782  uniq -i humanout2.txt
+  783  uniq -i humanout2.txt >humanout3.txt
+  784  cat humanout3.txt
+  785  history
+  786  grep -Fxv -f animalouttoken2.txt humanout3.txt
+  787  grep -Fxv -f animalouttoken2.txt humanout3.txt >onlyhuman.txt
+  788  cat onlyhuman.txt | less
+  789  wc onlyhuman.txt 
+  790  wc animalouttoken2.txt
+  791  wc humanout3.txt
+  792  grep -Fxv -f humanout3.txt animalouttoken2.txt >onlyhuman.txt
+  793  grep -Fxv -f animalouttoken2.txt humanout3.txt >onlyhuman.txt
+  794  grep -Fxv -f humanout3.txt animalouttoken2.txt >onlyanimal.txt
+  795  cat onlyanimal.txt | less
+  796  wc onlyanimal.txt 
+  797  ls
+  798  cp animalouttoken2.txt > animalwords.txt
+  799  touch animalwords.txt
+  800  ls
+  801  cp 
+  802  cp animalouttoken2.txt animalwords.txt
+  803  cat animalwords.txt 
+  804  ls
+  805  cat humanout3.txt | less
+  806  touch humanlist.txt
+  807  cp humanout3.txt humanlist.txt
+  808  cat humanlist.txt
+  809  ls
+  810  rm animaloutt*
+  811  ls
+  812  r humanout*
+  813  rm humanout*
+  814  ls
+  815  rm animalsout*
+  816  ls
+  817  rm animalout.txt 
+  818  ls
+  819  sed 's/-f humanlist.txt/.' animalwords.txt
+  820  man sed
+  821  sed 's/r humanlist.txt/\n\g' animalwords.txt
+  822  sed 's/--file humanli
+  823  man sed
+  824  man regexp
+  825  help regexp
+  826  regexp
+  827  man sed
+  828  man grep
+  829  history
+  830  ls
+  831  cat onlyanimal.txt | ls
+  832  cat onlyanimal.txt | less
+  833  man grep
+  834  grep -Fxv -f animal-token.txt human-token > only-human.txt
+  835  cat humanlist.txt
+  836  cat humanlist.txt | less
+  837  man grep
+  838  q
+  839  sudo apt get install linux-source
+  840  sudo apt-get install linux-source
+  841  sudo apt-get install linux-headers-generic
+  842  sudo apt-get remove nvidia-current
+  843  sudo apt-get remove nvidia-current-updates
+  844  sudo apt-get remove nvidia-experimental-304
+  845  sudo apt-get nvidia-current-updates
+  846  sudo apt-get install nvidia-current-updates
+  847  sudo shutdown -r now
+  848  wget http://85.25.103.134/Getintopc.com/en_windows_8_1_pro_vl_x64_dvd_2971948.iso
+  849  sudo apt-get install ntfs-3g
+  850  sudo apt-get install gparted
+  851  sudo apt-get install ntfs-3g
+  852  history
+  853  ls
+  854  cd documents
+  855  cd columbia/year_two/code_and_poetry/
+  856  ls
+  857  touch history.txt
+  858  ls
+  859  cp history >history.txt
+  860  help cp
+  861  man cp
+  862  history >history.txt
